@@ -1,0 +1,63 @@
+source:http://www.fomi.hu/
+
+
+Identification info
+Title 	Hungarian Administrative Boundaries
+Date 	2013-01-01
+Date type 	Publication: Date identifies when the resource was issued
+Date 	2015-10-19
+Date type 	Revision: Date identifies when the resource was examined or re-examined and improved or amended
+Date 	2013-01-01
+Date type 	Creation: Date identifies when the resource was brought into existence
+Code 	89d629af-4d96-4772-b4b3-f9a21ceef35f
+Code space 	http://www.geoshop.hu
+Abstract 	INSPIRE Data Specifications for the spatial data theme Administrative Units
+Point of contact
+Organisation name 	Institute of Geodesy, Cartography and Remote Sensing
+Role 	Author: Party who authored the resource
+Electronic mail address 	info@fomi.hu
+Descriptive keywords 	Administrative units .
+Descriptive keywords 	Administrative boundary .
+Use limitation 	it is a commercial product
+Access constraints 	Other restrictions: Limitation not listed
+Other constraints 	(e) intellectual property rights;
+Equivalent scale
+Denominator 	1000000
+Topic category code 	Boundaries
+Extent
+Geographic bounding box
+North bound latitude
+48.59	
+West bound longitude
+16.11		East bound longitude
+22.90
+South bound latitude
+45.74	
+Distribution info
+Name 	unknown
+Version 	unknown
+Transfer options
+OnLine resource 	http://inspire.fomi.hu:80/geoserver/fomi/wfs
+Reference system info
+Code 	http://www.opengis.net/def/crs/EPSG/0/4936
+Data quality info
+Hierarchy level 	Dataset: Information applies to the dataset
+xsi:type 	gmd:DQ_DomainConsistency_Type
+xsi:type 	gmd:DQ_ConformanceResult_Type
+Title 	Commission Regulation (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services
+Date 	2010-12-08
+Date type 	Publication: Date identifies when the resource was issued
+Explanation 	See the referenced specification
+gco:nilReason 	template
+Statement 	Publication of WMS and WFS services for Hungarian Administrative Units data provided by FÖMI.
+Metaadat
+File identifier 	6f18e79b-572d-43c4-8d64-8a9f29551573
+Character set 	:
+Hierarchy level 	Dataset: Information applies to the dataset
+Date stamp 	2015-10-26T15:09:18
+Metadata standard name 	ISO 19115:2003/19139
+Metadata standard version 	1.0
+Metadata author
+Organisation name 	Institute of Geodesy, Cartography and Remote Sensing
+Role 	Point of contact: Party who can be contacted for acquiring knowledge about or acquisition of the resource
+Electronic mail address 	info@fomi.hu
